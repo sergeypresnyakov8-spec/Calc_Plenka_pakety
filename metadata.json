@@ -1,0 +1,8 @@
+{
+  "name": "Калькулятор Пленки ПВД и Курьерских Пакетов",
+  "description": "Производственный калькулятор пересчёта параметров ПВД плёнки, рукавов и курьерских сейф-пакетов с точной регулировкой плотности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
